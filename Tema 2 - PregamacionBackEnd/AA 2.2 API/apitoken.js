@@ -3,7 +3,7 @@ import axios from 'axios';
 
 //Configuración
 const API_URL = 'https://api.github.com';
-const VALID_TOKEN = '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'; // Se reemplaza con el token de github
+//const VALID_TOKEN = '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'; // Se reemplaza con el token de github
 const INVALID_TOKEN = 'token-invalido-123';
 
 //validar token
